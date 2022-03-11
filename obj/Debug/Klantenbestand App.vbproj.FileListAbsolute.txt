@@ -1,0 +1,13 @@
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\bin\Debug\Klantenbestand App.exe.config
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\bin\Debug\Klantenbestand App.exe
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\bin\Debug\Klantenbestand App.pdb
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\bin\Debug\Klantenbestand App.xml
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.vbproj.AssemblyReference.cache
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.vbproj.SuggestedBindingRedirects.cache
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand_App.Resources.resources
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.vbproj.GenerateResource.cache
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.vbproj.CoreCompileInputs.cache
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.exe
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.xml
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand App.pdb
+C:\Users\llmau\Desktop\Boxspring VB\Applicatie\Klanten database\Klantenbestand App\obj\Debug\Klantenbestand_App.KlantenbestandForm.resources
