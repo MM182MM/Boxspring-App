@@ -43,4 +43,8 @@ SaveErr:
     Private Sub AfsluitenBTN_Click(sender As Object, e As EventArgs) Handles AfsluitenBTN.Click
         Me.Close()
     End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Dieks_btn.Click
+
+    End Sub
 End Class

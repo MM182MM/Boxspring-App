@@ -63,6 +63,7 @@ Partial Class KlantenbestandForm
         Me.EmailDataGridViewTextBoxColumn = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Table1TableAdapter = New Klantenbestand_App.KlantenbestandDataSetTableAdapters.Table1TableAdapter()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.Dieks_btn = New System.Windows.Forms.Button()
         CType(Me.Table1BindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.KlantenbestandDataSetBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.KlantenbestandDataSet, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -404,6 +405,7 @@ Partial Class KlantenbestandForm
         '
         'GroupBox2
         '
+        Me.GroupBox2.Controls.Add(Me.Dieks_btn)
         Me.GroupBox2.Controls.Add(Me.DataGridView1)
         Me.GroupBox2.Location = New System.Drawing.Point(460, 12)
         Me.GroupBox2.Name = "GroupBox2"
@@ -412,7 +414,16 @@ Partial Class KlantenbestandForm
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Klantenbestand"
         '
-        'Form1
+        'Dieks_btn
+        '
+        Me.Dieks_btn.Location = New System.Drawing.Point(281, 207)
+        Me.Dieks_btn.Name = "Dieks_btn"
+        Me.Dieks_btn.Size = New System.Drawing.Size(160, 23)
+        Me.Dieks_btn.TabIndex = 25
+        Me.Dieks_btn.Text = "Dieks button!"
+        Me.Dieks_btn.UseVisualStyleBackColor = True
+        '
+        'KlantenbestandForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -420,7 +431,7 @@ Partial Class KlantenbestandForm
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.PictureBox1)
-        Me.Name = "Form1"
+        Me.Name = "KlantenbestandForm"
         Me.Text = "Klantenbestand"
         CType(Me.Table1BindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.KlantenbestandDataSetBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
@@ -473,4 +484,5 @@ Partial Class KlantenbestandForm
     Friend WithEvents MobielDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents TelefoonDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
     Friend WithEvents EmailDataGridViewTextBoxColumn As DataGridViewTextBoxColumn
+    Friend WithEvents Dieks_btn As Button
 End Class
